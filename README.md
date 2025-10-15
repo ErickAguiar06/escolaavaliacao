@@ -69,4 +69,10 @@ bash
 git config --global user.email "seu-email@exemplo.com"
 
 
+## Print das telas 
+![Telas](./docs/assets/print1.png)
+![Telas](./docs/assets/print2.png)
+![Telas](./docs/assets/print3.png)
+![Telas](./docs/assets/print4.png)
+
 #### Desenvolvido por Thiago Muniz e Erick Pinto
