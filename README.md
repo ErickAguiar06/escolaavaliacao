@@ -75,4 +75,4 @@ git config --global user.email "seu-email@exemplo.com"
 ![Telas](./docs/assets/print3.png)
 ![Telas](./docs/assets/print4.png)
 
-#### Desenvolvido por Thiago Muniz e Erick Pinto
+#### Desenvolvido por Thiago Muniz e Erick Aguiar
